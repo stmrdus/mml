@@ -16,7 +16,6 @@ Repo for studying about multi-modal learning which focus on multi-modal knowlegd
 
 
 ## Table of Contents
-- [Multi-modal Learning](#multi-modal-learning)
 - [1. Surveys](#1-surveys)
   - [2024](#2024)
   - [2023](#2023)
