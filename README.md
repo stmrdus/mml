@@ -1,13 +1,13 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-![Github repo stars](https://img.shields.io/github/stars/stmrdus/tkger)
-![GitHub last commit](https://img.shields.io/github/last-commit/stmrdus/tkger)
+![Github repo stars](https://img.shields.io/github/stars/stmrdus/mml)
+![GitHub last commit](https://img.shields.io/github/last-commit/stmrdus/mml)
 
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/stmrdus/tkger"><a href="https://github.com/stmrdus/tkger/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/stmrdus/tkger"></a>
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/stmrdus/tkger">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/stmrdus/tkger">
-<a href="https://github.com/stmrdus/tkger/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/stmrdus/tkger"></a>
-<a href="https://github.com/stmrdus/tkger/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/stmrdus/tkger"></a>
-<img alt="GitHub" src="https://img.shields.io/github/license/stmrdus/tkger">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/stmrdus/mml"><a href="https://github.com/stmrdus/mml/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/stmrdus/mml"></a>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/stmrdus/mml">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/stmrdus/mml">
+<a href="https://github.com/stmrdus/mml/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/stmrdus/mml"></a>
+<a href="https://github.com/stmrdus/mml/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/stmrdus/mml"></a>
+<img alt="GitHub" src="https://img.shields.io/github/license/stmrdus/mml">
 
 
 # Multi-modal learning
